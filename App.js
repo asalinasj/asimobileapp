@@ -18,7 +18,7 @@ const Application = StackNavigator({
   Contact: {screen: Contact},
   }, {
     navigationOptions: {
-      header: false,
+      header: true,
     }
 });
 
