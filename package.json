@@ -1,6 +1,6 @@
 {
   "name": "newreactnative",
-  "version": "1.5.1",
+  "version": "3.0.9",
   "private": true,
   "devDependencies": {
     "jest-expo": "25.0.0",
