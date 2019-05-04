@@ -1,10 +1,10 @@
 {
   "name": "newreactnative",
-  "version": "0.1.0",
+  "version": "1.5.1",
   "private": true,
   "devDependencies": {
-    "react-native-scripts": "1.11.1",
     "jest-expo": "25.0.0",
+    "react-native-scripts": "^1.13.1",
     "react-test-renderer": "16.2.0"
   },
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
@@ -20,8 +20,11 @@
   },
   "dependencies": {
     "expo": "^25.0.0",
-    "react": "16.2.0",
-    "react-native": "0.52.0",
-    "react-navigation": "^1.5.1"
+    "react": "^16.3.1",
+    "react-native": "^0.51.1",
+    "react-navigation": "^1.5.11",
+    "scripts": "^0.1.0",
+    "update-pom": "^1.0.2",
+    "upgrade": "^1.1.0"
   }
 }
